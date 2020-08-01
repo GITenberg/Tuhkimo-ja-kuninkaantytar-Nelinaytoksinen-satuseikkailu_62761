@@ -1,5 +1,8 @@
 _repo: Tuhkimo-ja-kuninkaantytar-Nelinaytoksinen-satuseikkailu_62761
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Larin-Kyösti
@@ -20,6 +23,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
     - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62761#Tuhkimo-ja-kuninkaantytar-Nelinaytoksinen-satuseikkailu
 gutenberg_issued: '2020-07-26'
 gutenberg_type: Text
 identifiers:
